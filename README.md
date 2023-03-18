@@ -1,8 +1,6 @@
 ```
 ## `For Termux/Ssh/Ubuntu`
 
-apt update
-apt upgrade
 pkg update && pkg upgrade
 pkg install git -y
 pkg install nodejs -y 
